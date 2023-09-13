@@ -1,0 +1,8 @@
+numpy 
+pyspark
+spark-nlp
+mlflow
+matplotlib
+scikit-learn
+ipykernel
+jupyter 
